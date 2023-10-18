@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Element>
+    <MAVT>1</MAVT>
+    <TENVT>Sách giáo khoa</TENVT>
+    <DVTINH>quyen</DVTINH>
+    <PHANTRAM>10</PHANTRAM>
+  </Element>
+  <Element>
+    <MAVT>2</MAVT>
+    <TENVT>Vở viết</TENVT>
+    <DVTINH>quyen</DVTINH>
+    <PHANTRAM>5</PHANTRAM>
+  </Element>
+  <Element>
+    <MAVT>3</MAVT>
+    <TENVT>Bút chì</TENVT>
+    <DVTINH>cay</DVTINH>
+    <PHANTRAM>2</PHANTRAM>
+  </Element>
+  <Element>
+    <MAVT>4</MAVT>
+    <TENVT>Bút bi</TENVT>
+    <DVTINH>cay</DVTINH>
+    <PHANTRAM>3</PHANTRAM>
+  </Element>
+  <Element>
+    <MAVT>5</MAVT>
+    <TENVT>Thước kẻ</TENVT>
+    <DVTINH>cay</DVTINH>
+    <PHANTRAM>1</PHANTRAM>
+  </Element>
+</DocumentElement>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Element>
+    <SODH>1</SODH>
+    <NGAYDH>2023-10-18T00:00:00+07:00</NGAYDH>
+    <MANHACC>1</MANHACC>
+    <MANHACC1>1</MANHACC1>
+    <TENNHACC>Nhà cung cấp 1</TENNHACC>
+    <DIACHI>Số 1, đường Nguyễn Trãi, Hà Nội</DIACHI>
+    <DIENTHOAI>02438538538</DIENTHOAI>
+  </Element>
+  <Element>
+    <SODH>2</SODH>
+    <NGAYDH>2023-10-19T00:00:00+07:00</NGAYDH>
+    <MANHACC>2</MANHACC>
+    <MANHACC1>2</MANHACC1>
+    <TENNHACC>Nhà cung cấp 2</TENNHACC>
+    <DIACHI>Số 2, đường Lê Văn Lương, Thành phố Hồ Chí Minh</DIACHI>
+    <DIENTHOAI>02838238238</DIENTHOAI>
+  </Element>
+  <Element>
+    <SODH>3</SODH>
+    <NGAYDH>2023-10-20T00:00:00+07:00</NGAYDH>
+    <MANHACC>3</MANHACC>
+    <MANHACC1>3</MANHACC1>
+    <TENNHACC>Nhà cung cấp 3</TENNHACC>
+    <DIACHI>Số 3, đường Ngô Quyền, Hải Phòng</DIACHI>
+    <DIENTHOAI>022538738738</DIENTHOAI>
+  </Element>
+  <Element>
+    <SODH>4</SODH>
+    <NGAYDH>2023-10-21T00:00:00+07:00</NGAYDH>
+    <MANHACC>4</MANHACC>
+    <MANHACC1>4</MANHACC1>
+    <TENNHACC>Nhà cung cấp 4</TENNHACC>
+    <DIACHI>Số 4, đường Trần Hưng Đạo, Đà Nẵng</DIACHI>
+    <DIENTHOAI>023638938938</DIENTHOAI>
+  </Element>
+  <Element>
+    <SODH>5</SODH>
+    <NGAYDH>2023-10-22T00:00:00+07:00</NGAYDH>
+    <MANHACC>5</MANHACC>
+    <MANHACC1>5</MANHACC1>
+    <TENNHACC>Nhà cung cấp 5</TENNHACC>
+    <DIACHI>Số 5, đường Cầu Giấy, Cần Thơ</DIACHI>
+    <DIENTHOAI>029238138138</DIENTHOAI>
+  </Element>
+</DocumentElement>
